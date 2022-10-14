@@ -7,3 +7,5 @@ Please generate an input file with your test prices, rename it to <i>Prices.csv<
  2020-06-27 16:52,1593276720000,4.4972,4328.29</pre>
 
 A new price gets uploaded every 60 seconds so input data *should* contain prices published once a minute.
+
+Don't forget to modify the connection URI and add your username and password!
