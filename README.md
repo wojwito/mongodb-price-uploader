@@ -1,5 +1,5 @@
 # mongodb-price-uploader
-A simple Python script used to upload prices from a <i>csv</i> file. 
+A simple Python script used to upload prices from a <i>csv</i> file into a MongoDB timeseries collection. 
  
 Please generate an input file with your test prices, rename it to <i>Prices.csv</i> and use the following format:<br>
  <pre>
