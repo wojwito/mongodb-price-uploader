@@ -6,7 +6,7 @@ A simple Python script used to upload prices from a <i>csv</i> file into a Mongo
  
 # HOW TO RUN
 
-Please generate an input file with your test prices, rename it to <i>Prices.csv</i> and use the following format:<br>
+Please generate an input file with your test prices, rename it to <i>Prices.csv</i> and save in the same directory as the script. Use the following format:<br>
  <pre>
  timestamp,time_in_milliseconds,price,volume
  2020-06-27 16:52,1593276720000,4.4972,4328.29</pre>
